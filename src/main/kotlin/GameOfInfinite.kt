@@ -67,4 +67,3 @@ class GameOfLife(private val rows: Int, private val cols: Int) {
 fun main() {
     GameOfLife(0, 0).runSimulation()
 }
-
